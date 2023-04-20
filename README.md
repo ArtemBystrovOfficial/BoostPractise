@@ -4,13 +4,13 @@
 - Beast 
 - Container ?
 - Context - часть файберов
-- Convert 
+- Convert +
 - Coroutine2 
 - Describe +
 - Endian 
 - Fiber 
-- Flyweight  
-- Fusion 
+- Flyweight -  
+- Fusion +-
 - Hana +-
 - In Place Factory, Typed In Place Factory  
 - JSON 
@@ -26,5 +26,5 @@
 - Scope Exit 
 - Signals2 +
 - Stacktrace +  
-- Type Erasure 
+- Type Erasure +
 - URL 
