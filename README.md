@@ -1,30 +1,27 @@
 # BoostPractise
-- Algorithm 
+- Algorithm +
 - Asio 
 - Beast 
-- Container ?
+- Container +
 - Context - часть файберов
 - Convert +
 - Coroutine2 
 - Describe +
-- Endian 
+- Endian +
 - Fiber 
 - Flyweight -  
 - Fusion +-
 - Hana +-
 - In Place Factory, Typed In Place Factory  
 - JSON 
-- LEAF 
 - Lexical Cast  
 - Lockfree +
 - Log +-
 - Metaparse +-
 - Mp11 +-
 - MPL 
-- Outcome 
 - Preprocessor 
-- Scope Exit 
+- Scope Exit +
 - Signals2 +
 - Stacktrace +  
 - Type Erasure +
-- URL 
