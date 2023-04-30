@@ -1,7 +1,7 @@
 # BoostPractise
 - Algorithm +
 - Asio 
-- Beast 
+- Beast +
 - Container +
 - Context - часть файберов
 - Convert +
@@ -13,7 +13,7 @@
 - Fusion +-
 - Hana +-
 - In Place Factory, Typed In Place Factory  
-- JSON 
+- JSON +
 - Lexical Cast  
 - Lockfree +
 - Log +-
