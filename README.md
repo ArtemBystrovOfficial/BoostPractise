@@ -1,27 +1,28 @@
 # BoostPractise
 - Algorithm +
-- Asio 
+- Asio +- NEXT
 - Beast +
 - Container +
-- Context - часть файберов
+- Context - часть файберов +- NEXT
 - Convert +
-- Coroutine2 
+- Coroutine2 +- NEXT
 - Describe +
 - Endian +
-- Fiber 
-- Flyweight -  
-- Fusion +-
-- Hana +-
-- In Place Factory, Typed In Place Factory  
+- Fiber +- NEXT  
+- In Place Factory, Typed In Place Factory +-
 - JSON +
-- Lexical Cast  
+- Lexical Cast  +
 - Lockfree +
 - Log +-
-- Metaparse +-
-- Mp11 +-
-- MPL 
-- Preprocessor 
 - Scope Exit +
 - Signals2 +
 - Stacktrace +  
 - Type Erasure +
+
+META
+- Fusion 
+- Hana 
+- Preprocessor 
+- Metaparse 
+- Mp11 
+- MPL 
